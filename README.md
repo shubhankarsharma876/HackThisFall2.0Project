@@ -7,5 +7,7 @@ This project is consist of two features which will enhance the productivity of t
 
 2. The next feature is "StopWatch" webpage where the person can monitor the time he used behind a particular task. Which will help them to analyse the level of productivity they are having.
 
-This project was build under the shadow of"HackThisFall2.0" hackathon, But this project will improved later on. So the reader should feel free to contribute to this repository
+This project was build under the shadow of"HackThisFall2.0" hackathon, But this project will improved later on. So the reader should feel free to contribute to this repository.
+***
+Check out the project demonstration [video](https://vimeo.com/638135700).
 ***
